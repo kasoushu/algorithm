@@ -1,0 +1,6 @@
+
+*.exe
+# !*.cpp
+.git
+.vscode
+.idea
