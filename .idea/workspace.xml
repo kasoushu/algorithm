@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb120ac5-9648-41c8-913b-952db9fa86c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/sftp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/LPS.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/MATRIX.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/MATRIX_RECURSION.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/bag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/cut.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/fengkuangdecaiyaoren.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/find_max_subarrary.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/max_sub.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/merge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/package.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/shuzi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/dp/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/tree/dfs_tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/zhuangya_dp/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/zhuangya_dp/炮兵阵地.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/zhuangya_dp/炮兵阵地.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/caipiaocheck.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/fish.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/fish_count.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/give_m_.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/hanziyasuo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/huanfang.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/school_tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/sleep_count.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/vector_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/xinsuan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/arrary/zheng_tou_zi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/chiji.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/huiwenzhishu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/huocai.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/huoxingren.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/pailie.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/perket.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/pinmugun.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/tongjifangxing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/tuguoqi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/xuanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/zuhe.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/baolimeiju/全排列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/atob.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/gufen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/kanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/lubiao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/lubiao.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/mucaijiagong.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/shuzufenduan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/tiaoshitou.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/yiyuansanci.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/chazhao/zhaoshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/huohezu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/micifang.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/sanjiaoxing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/shudejisuan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/tuqiang.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/waixingmima.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/weaixingmima.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/xiaomifeng.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/diguiyuditui/zoulouti.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/P4017最大食物链.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/P5318查找文献.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/dijkstra.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/kruskal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/kruskal.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/prim.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/graph/union_set.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/baolinqiu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/baolinqiu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/buchongfudeshuzi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/亲戚.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/关押罪犯.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/关押罪犯.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/团伙.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/团伙.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/字符串哈希.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/字符串哈希.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/村村通.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/村村通.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/集合.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/jihe/集合.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/2dezhishu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/Function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/aaddb.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/gjcheng.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/maisenshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/saolei.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/shitoujiandaobu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/tetst.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/wanju.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/moni&amp;gaojingdu/zuidachengji.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/qujiandp/合并石子.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/qujiandp/合并石子.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/choose_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/fenshuxian.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/insert_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/jiangxuejin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/maopao_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/merge_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/mingmingdesuijishu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/quick_sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/quick_sort2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/xirpaixu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/xueshenghui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sort/zuidazhengshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/bahuanghou.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/bahuanghou.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/danci.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/danci.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dancifangzhen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dancifangzhen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dancijielong.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dancijielong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dianti.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/dianti.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/kaoshi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/kaoshi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/madebianli.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/madebianli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/meteor_problem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/meteor_problem.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/ziranshuchaifen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/ziranshuchaifen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/zoumigong.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/zoumigong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/吃奶酪.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/sousuo/吃奶酪.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/daxiaoxie.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/find_count.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/lucky_word.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/suanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/tets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/strings/title_tongji.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/fenshubeibao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/fenzu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/guowangyouxi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/haff_hebingguozi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/hafumanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/hebingguozi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/jieshui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/pushedaolu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/shanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/xiaoacandy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/xiaoqingwa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/tanxin/zhuaipingguo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/dianming.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/dianming.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/fanyi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/fanyi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/houzhui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/houzhui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/jibao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/jibao.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/括号序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/括号序列.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/约瑟夫问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/约瑟夫问题.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/队列安排.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/队列安排.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/验证栈.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/xianxingbiao/验证栈.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/散ti/P1496火烧赤壁.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/散ti/P1496火烧赤壁.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/P1904天际线.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/P1908逆序对.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/P3368树状数组2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/P3374树状数组.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/templete.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/xianduanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/xianduanshu2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luohu/树状数组/洛谷P4588数学计算.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="yasm7skm" />
+  </component>
+  <component name="ProjectId" id="1iDqM2B5HA2i9Hhx3z7ey5OEgPN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb120ac5-9648-41c8-913b-952db9fa86c7" name="Default Changelist" comment="" />
+      <created>1601452458257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601452458257</updated>
+      <workItem from="1601452459319" duration="567000" />
+      <workItem from="1601453033089" duration="3749000" />
+      <workItem from="1601625004880" duration="81000" />
+      <workItem from="1601625099260" duration="603000" />
+      <workItem from="1601626086383" duration="233000" />
+      <workItem from="1601626496271" duration="4571000" />
+      <workItem from="1601779426429" duration="843000" />
+      <workItem from="1602036169219" duration="8000" />
+      <workItem from="1602046456901" duration="3000" />
+      <workItem from="1602162679727" duration="6000" />
+      <workItem from="1602222943015" duration="2000" />
+      <workItem from="1602325924172" duration="59000" />
+      <workItem from="1602742793599" duration="8000" />
+      <workItem from="1603012634881" duration="7000" />
+      <workItem from="1606486238306" duration="1000" />
+      <workItem from="1607095081518" duration="531000" />
+      <workItem from="1607725362107" duration="3000" />
+      <workItem from="1610547144785" duration="561000" />
+      <workItem from="1610615972578" duration="5000" />
+      <workItem from="1611119160840" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610547468132">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="438" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1610547468132" />
+    <state x="640" y="330" width="630" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602325954068">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="640" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1602325954068" />
+    <state x="637" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610547165199">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="637" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1610547165199" />
+    <state x="1026" y="246" key="FileChooserDialogImpl" timestamp="1610547340393">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1026" y="246" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1610547340393" />
+    <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1610547713815">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="263" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1610547713815" />
+    <state width="1867" height="263" key="GridCell.Tab.0.center" timestamp="1610547713815">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="263" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1610547713815" />
+    <state width="1867" height="263" key="GridCell.Tab.0.left" timestamp="1610547713815">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="263" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1610547713815" />
+    <state width="1867" height="263" key="GridCell.Tab.0.right" timestamp="1610547713815">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="263" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1610547713815" />
+    <state x="617" y="95" key="SettingsEditor" timestamp="1610547620904">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="617" y="95" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1610547620904" />
+    <state x="794" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1610547316380">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="794" y="364" key="cloudConfig.SelfSettingsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1610547316380" />
+    <state x="786" y="339" width="702" height="335" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1610547386465">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="786" y="339" width="702" height="335" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1610547386465" />
+  </component>
+</project>
